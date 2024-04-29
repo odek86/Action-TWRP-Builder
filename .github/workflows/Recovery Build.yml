@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/odex86/android_device_xiaomi_riva-pbrp'
+        default: 'https://github.com/odek86/android_device_xiaomi_riva-pbrp'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
